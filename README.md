@@ -7,6 +7,14 @@ Win or be eliminated. A fast-paced, high-stakes version of the classic Rock-Pape
 This is a simple yet intense Rock-Paper-Scissors game where you play as Player 001 in a deadly challenge.
 You must win rounds to survive—lose once, and it’s instant elimination.
 
+## 📌 Do Try  
+
+Want to try out some Python code instantly? No setup required!  
+
+# 👉 [Play Online](https://www.programiz.com/online-compiler/165DJtwrLoQQB)  
+
+Give it a try and explore! 🚀 
+
 ## 🎯 How to Play?
 Start the game – You are Player 001.
 Make your move – Type "rock", "paper", or "scissors".
