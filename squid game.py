@@ -2,8 +2,8 @@
 import random
 
 def rock_paper_scissors():
-    print("🔺 Welcome to Squid Game: Rock-Paper-Scissors! 🔻")
-    print("🎭 Hey player 001 Win or die")
+    print(" Welcome to Squid Game: Rock-Paper-Scissors!")
+    print("🎭 Hey player 001 Win or Eliminate")
 
     choices = ["rock", "paper", "scissors"]
     player_score = 0
