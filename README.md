@@ -1,6 +1,6 @@
 # Squid-Game
 
-## 🎭 Squid Game: Rock-Paper-Scissors 🔺🔻
+## 🎭 Squid Game: Round 1 Rock-Paper-Scissors 
 Win or be eliminated. A fast-paced, high-stakes version of the classic Rock-Paper-Scissors, inspired by Squid Game.
 
 ## 🚀 About the Game
